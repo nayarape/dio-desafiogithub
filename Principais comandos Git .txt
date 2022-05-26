@@ -1,0 +1,8 @@
+ls- listar
+mkdir- criar nova pasta
+ctrl-l limpar página 
+cd - abrir pasta
+cd ..- retornar pasta
+git confit -- global : cadastrar user" email e name"
+git init- abrir cód git na pasta 
+git status - demonstrar conteúdo da pasta  
