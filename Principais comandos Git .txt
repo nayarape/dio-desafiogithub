@@ -5,4 +5,7 @@ cd - abrir pasta
 cd ..- retornar pasta
 git confit -- global : cadastrar user" email e name"
 git init- abrir cód git na pasta 
-git status - demonstrar conteúdo da pasta  
+git status - demonstrar conteúdo da pasta
+git add - adicionais pastas ao git 
+git push - empurrar criações do git para repositório 
+git commit -m "intruções" - commitar pasta para repositório   
